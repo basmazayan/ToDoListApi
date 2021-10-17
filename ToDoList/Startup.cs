@@ -73,6 +73,7 @@ namespace ToDoList
                     IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Configuration["JWT:Secret"]))
                 };
             });
+            services.AddSwaggerGen();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -88,24 +89,8 @@ namespace ToDoList
             options => options.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader()
           );
 
-            //app.Use(async (context, next) =>
-            //{
-            //    await next();
-            //    if (context.Response.StatusCode == 404 && !Path.HasExtension(context.Request.Path.Value))
-            //    {
-            //        context.Request.Path = "/index.html";
-            //        await next();
-            //    }
-            //});
             app.UseDefaultFiles();
             app.UseStaticFiles(); // For the wwwroot folder.
-            //app.UseFileServer(new FileServerOptions()
-            //{
-            //    FileProvider = new PhysicalFileProvider(Path.Combine(env.ContentRootPath, @"Resources")),
-            //    RequestPath = "/Resources",
-            //    EnableDirectoryBrowsing = true
-            //});
-
             app.UseRouting();
 
             app.UseAuthorization();
@@ -114,6 +99,8 @@ namespace ToDoList
             {
                 endpoints.MapControllers();
             });
+            app.UseSwagger();
+            app.UseSwaggerUI();
         }
     }
 }
