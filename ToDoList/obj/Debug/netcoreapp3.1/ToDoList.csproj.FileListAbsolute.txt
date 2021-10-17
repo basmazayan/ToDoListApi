@@ -1,0 +1,475 @@
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.exe
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.deps.json
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.runtimeconfig.json
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.runtimeconfig.dev.json
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.pdb
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.csprojAssemblyReference.cache
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.AssemblyInfoInputs.cache
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.AssemblyInfo.cs
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\staticwebassets\ToDoList.StaticWebAssets.Manifest.cache
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\staticwebassets\ToDoList.StaticWebAssets.xml
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\scopedcss\bundle\ToDoList.styles.css
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.RazorTargetAssemblyInfo.cache
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.csproj.CopyComplete
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.dll
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.pdb
+C:\Users\Basma\Desktop\pr\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.genruntimeconfig.cache
+E:\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.csprojAssemblyReference.cache
+E:\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.AssemblyInfoInputs.cache
+E:\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.AssemblyInfo.cs
+E:\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.csproj.CoreCompileInputs.cache
+E:\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.MvcApplicationPartsAssemblyInfo.cache
+E:\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.dll
+E:\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.pdb
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.exe
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.deps.json
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.runtimeconfig.json
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.runtimeconfig.dev.json
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.pdb
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Azure.Core.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\EntityFramework.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.AspNet.Identity.Core.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\staticwebassets\ToDoList.StaticWebAssets.Manifest.cache
+E:\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\staticwebassets\ToDoList.StaticWebAssets.xml
+E:\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\scopedcss\bundle\ToDoList.styles.css
+E:\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.RazorTargetAssemblyInfo.cache
+E:\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.csproj.CopyComplete
+E:\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.genruntimeconfig.cache
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.exe
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.deps.json
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.runtimeconfig.json
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.runtimeconfig.dev.json
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.pdb
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Azure.Core.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Humanizer.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.AssemblyInfoInputs.cache
+F:\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.AssemblyInfo.cs
+F:\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.csproj.CoreCompileInputs.cache
+F:\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.MvcApplicationPartsAssemblyInfo.cache
+F:\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\staticwebassets\ToDoList.StaticWebAssets.Manifest.cache
+F:\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\staticwebassets\ToDoList.StaticWebAssets.xml
+F:\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\scopedcss\bundle\ToDoList.styles.css
+F:\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.RazorTargetAssemblyInfo.cache
+F:\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.csproj.CopyComplete
+F:\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.dll
+F:\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.pdb
+F:\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.genruntimeconfig.cache
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\EntityFramework.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\appsettings.Development.json
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\appsettings.json
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.exe
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.deps.json
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.runtimeconfig.json
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.runtimeconfig.dev.json
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.pdb
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Azure.Core.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\EntityFramework.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Humanizer.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.csprojAssemblyReference.cache
+H:\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.AssemblyInfoInputs.cache
+H:\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.AssemblyInfo.cs
+H:\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.csproj.CoreCompileInputs.cache
+H:\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.MvcApplicationPartsAssemblyInfo.cache
+H:\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\staticwebassets\ToDoList.StaticWebAssets.Manifest.cache
+H:\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\staticwebassets\ToDoList.StaticWebAssets.xml
+H:\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\scopedcss\bundle\ToDoList.styles.css
+H:\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.RazorTargetAssemblyInfo.cache
+H:\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.csproj.CopyComplete
+H:\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.dll
+H:\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.pdb
+H:\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.genruntimeconfig.cache
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\appsettings.json
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.exe
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.deps.json
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.runtimeconfig.json
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.runtimeconfig.dev.json
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.pdb
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Azure.Core.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\EntityFramework.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.csprojAssemblyReference.cache
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.AssemblyInfoInputs.cache
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.AssemblyInfo.cs
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.csproj.CoreCompileInputs.cache
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.MvcApplicationPartsAssemblyInfo.cache
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\staticwebassets\ToDoList.StaticWebAssets.Manifest.cache
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\staticwebassets\ToDoList.StaticWebAssets.xml
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\scopedcss\bundle\ToDoList.styles.css
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.RazorTargetAssemblyInfo.cache
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.csproj.CopyComplete
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.pdb
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.genruntimeconfig.cache
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.AspNet.Identity.Core.dll
+E:\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\appsettings.json
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.exe
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.deps.json
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.runtimeconfig.json
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.runtimeconfig.dev.json
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.pdb
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Azure.Core.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.AspNet.Identity.Core.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.csprojAssemblyReference.cache
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.AssemblyInfoInputs.cache
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.AssemblyInfo.cs
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.csproj.CoreCompileInputs.cache
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.MvcApplicationPartsAssemblyInfo.cache
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\staticwebassets\ToDoList.StaticWebAssets.Manifest.cache
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\staticwebassets\ToDoList.StaticWebAssets.xml
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\scopedcss\bundle\ToDoList.styles.css
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.RazorTargetAssemblyInfo.cache
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.csproj.CopyComplete
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.dll
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.pdb
+D:\pr\aaaaangular\Angular project to test animation\ToDoList\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.genruntimeconfig.cache
