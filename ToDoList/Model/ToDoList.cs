@@ -5,8 +5,10 @@ using System.Threading.Tasks;
 
 namespace ToDoList.Model
 {
-    public class ToDoList
+    public class todolist
     {
-
+        public int Id { get; set; }
+        public string Title { get; set; }
+        public bool Completed { get; set; }
     }
 }

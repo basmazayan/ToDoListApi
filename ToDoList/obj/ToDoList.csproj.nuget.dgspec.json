@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\pr\\API\\ToDoList\\ToDoList.csproj": {}
+    "E:\\TODo\\ToDoList\\ToDoList.csproj": {}
   },
   "projects": {
-    "D:\\pr\\API\\ToDoList\\ToDoList.csproj": {
+    "E:\\TODo\\ToDoList\\ToDoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\pr\\API\\ToDoList\\ToDoList.csproj",
+        "projectUniqueName": "E:\\TODo\\ToDoList\\ToDoList.csproj",
         "projectName": "ToDoList",
-        "projectPath": "D:\\pr\\API\\ToDoList\\ToDoList.csproj",
-        "packagesPath": "C:\\Users\\Basma\\.nuget\\packages\\",
-        "outputPath": "D:\\pr\\API\\ToDoList\\obj\\",
+        "projectPath": "E:\\TODo\\ToDoList\\ToDoList.csproj",
+        "packagesPath": "C:\\Users\\TheGenius\\.nuget\\packages\\",
+        "outputPath": "E:\\TODo\\ToDoList\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Basma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\TheGenius\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -103,7 +106,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.208\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
