@@ -17,5 +17,7 @@ namespace ToDoList.Model
         {
             base.OnModelCreating(builder);
         }
+        public DbSet<Attachments> attachments { get; set; }
+
     }
 }
