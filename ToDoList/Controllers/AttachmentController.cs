@@ -11,7 +11,7 @@ namespace ToDoList.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class AttachmentController : Controller
+    public class AttachmentController : ControllerBase
     {
         private readonly ApplicationDbContext _context;
         public AttachmentController(ApplicationDbContext context)
@@ -28,7 +28,7 @@ namespace ToDoList.Controllers
             try
             {
                 var files = Request.Form.Files;
-                var folderName = Path.Combine("Resources", "Images");
+                var folderName = Path.Combine("Resources", "filesUploaded");
                 var pathToSave = Path.Combine(Directory.GetCurrentDirectory(), folderName);
                 if (files.Any(f => f.Length == 0))
                 {
@@ -54,7 +54,7 @@ namespace ToDoList.Controllers
                 }
                 return IDs;
             }
-            catch (Exception)
+            catch (Exception ex)
             {
                 return IDs;
             }
