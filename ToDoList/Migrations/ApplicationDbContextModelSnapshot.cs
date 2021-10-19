@@ -229,7 +229,7 @@ namespace ToDoList.Migrations
                     b.Property<string>("FileName")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("TaskId")
+                    b.Property<int?>("TaskId")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
@@ -312,9 +312,7 @@ namespace ToDoList.Migrations
                 {
                     b.HasOne("ToDoList.Model.todolist", "Todolist")
                         .WithMany()
-                        .HasForeignKey("TaskId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("TaskId");
 
                     b.Navigation("Todolist");
                 });

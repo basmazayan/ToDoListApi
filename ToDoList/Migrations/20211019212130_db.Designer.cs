@@ -10,7 +10,7 @@ using ToDoList.Model;
 namespace ToDoList.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20211019073503_db")]
+    [Migration("20211019212130_db")]
     partial class db
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -231,7 +231,7 @@ namespace ToDoList.Migrations
                     b.Property<string>("FileName")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("TaskId")
+                    b.Property<int?>("TaskId")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
@@ -314,9 +314,7 @@ namespace ToDoList.Migrations
                 {
                     b.HasOne("ToDoList.Model.todolist", "Todolist")
                         .WithMany()
-                        .HasForeignKey("TaskId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("TaskId");
 
                     b.Navigation("Todolist");
                 });
