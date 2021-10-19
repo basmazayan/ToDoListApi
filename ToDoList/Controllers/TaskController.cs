@@ -17,14 +17,14 @@ namespace ToDoList.Controllers
             _context = context;
         }
         [HttpPost]
-        public ActionResult<todolist> PostEquipment(todolist task)
+        public ActionResult<todolist> Post(todolist task)
         {
             todolist todolist = new todolist();
             todolist.Title = task.Title;
             todolist.Completed = task.Completed;
             _context.toDoLists.Add(todolist);
             _context.SaveChanges();
-            return Ok();
+            return todolist;
            // return CreatedAtAction("GetEquipment", new { id = equipment.Id }, equipment);
         }
     }

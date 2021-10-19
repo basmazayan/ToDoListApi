@@ -239,7 +239,7 @@ namespace ToDoList.Migrations
                     b.ToTable("attachments");
                 });
 
-            modelBuilder.Entity("ToDoList.Model.ToDoList", b =>
+            modelBuilder.Entity("ToDoList.Model.todolist", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -254,7 +254,7 @@ namespace ToDoList.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("ToDoList");
+                    b.ToTable("toDoLists");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<int>", b =>
@@ -310,13 +310,13 @@ namespace ToDoList.Migrations
 
             modelBuilder.Entity("ToDoList.Model.Attachments", b =>
                 {
-                    b.HasOne("ToDoList.Model.ToDoList", "ToDoList")
+                    b.HasOne("ToDoList.Model.todolist", "Todolist")
                         .WithMany()
                         .HasForeignKey("TaskId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("ToDoList");
+                    b.Navigation("Todolist");
                 });
 #pragma warning restore 612, 618
         }

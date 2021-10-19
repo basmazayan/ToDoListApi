@@ -20,11 +20,11 @@ namespace ToDoList.Controllers
         }
 
         [HttpPost, DisableRequestSizeLimit]
-        [Route("upload")]
+        [Route("upload/{id}")]
         //[RequestFormLimits(MultipartBodyLengthLimit = 209715200)]
-        public List<int> Upload()
+        public void Upload(int id)
         {
-            List<int> IDs = new List<int>();
+            //List<int> IDs = new List<int>();
             try
             {
                 var files = Request.Form.Files;
@@ -32,7 +32,7 @@ namespace ToDoList.Controllers
                 var pathToSave = Path.Combine(Directory.GetCurrentDirectory(), folderName);
                 if (files.Any(f => f.Length == 0))
                 {
-                    return IDs;
+                   // return IDs;
                 }
                 foreach (var file in files)
                 {
@@ -48,15 +48,16 @@ namespace ToDoList.Controllers
                     //   return Ok(new { dbPath });
                     var attach = new Attachments();
                     attach.FileName = dbPath;
+                    attach.TaskId = id;
                     _context.attachments.Add(attach);
                     _context.SaveChanges();
-                    IDs.Add(attach.Id);
+                    //IDs.Add(attach.Id);
                 }
-                return IDs;
+                //return IDs;
             }
             catch (Exception ex)
             {
-                return IDs;
+                //return IDs;
             }
         }
     }
